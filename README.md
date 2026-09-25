@@ -153,7 +153,7 @@ O desenvolvimento do projeto envolveu as seguintes etapas:
 
 ### Dashboard principal
 
-![Dashboard Xbox Game Pass](dashboard.png.png)
+![Dashboard Xbox Game Pass](imagens/Dashboard.png.png)
 
 ⚠️ Observações
 
